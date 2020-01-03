@@ -1,0 +1,6 @@
+Design a call center such that:
+
+1. There are three kinds of employees: Respondants, Managers and Directors
+2. When a call comes then it is allocated to the Respondants first
+3. If no Respondant is free or not able to handle it then its escalated to Managers.
+4. If no Manager is free or not able to handle it then its escalated to Directors.
