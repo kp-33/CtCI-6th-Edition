@@ -4,3 +4,11 @@ Design a call center such that:
 2. When a call comes then it is allocated to the Respondants first
 3. If no Respondant is free or not able to handle it then its escalated to Managers.
 4. If no Manager is free or not able to handle it then its escalated to Directors.
+
+Please review my code for JukeBox
+
+Jukebox is plays songs or playlists
+Each song has an Artist
+For playlist, the first song is played and other songs are added to the queue
+Relation between playlist and songs is many-to-many
+Relation between Song and Artist is Many-to-one
