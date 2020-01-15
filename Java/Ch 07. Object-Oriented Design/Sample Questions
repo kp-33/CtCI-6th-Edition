@@ -12,3 +12,8 @@ Each song has an Artist
 For playlist, the first song is played and other songs are added to the queue
 Relation between playlist and songs is many-to-many
 Relation between Song and Artist is Many-to-one
+
+Online book reading
+• Searching the database of books and reading a book.
+• User membership creation and extension.
+• Only one active user at a time and only one active book by this user
